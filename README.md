@@ -1,7 +1,7 @@
 # LuckyDigits-Predictor
 A Machine Learning Model for Predicting the Most Probable Last Three Digits
 ### file structre 
-
+```plaintext
 LuckyDigits-Predictor/
 │── 📂 backend/                 # Backend with Django or Flask
 │   │── 📂 database/            # Database-related files
@@ -22,3 +22,4 @@ LuckyDigits-Predictor/
 │   │── lottery_data.csv         # Dataset for training
 │── requirements.txt            # Python dependencies
 │── README.md                   # Project documentation
+```
